@@ -1,0 +1,14 @@
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\bin\Debug\net8.0\calculoSalario.exe
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\bin\Debug\net8.0\calculoSalario.deps.json
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\bin\Debug\net8.0\calculoSalario.runtimeconfig.json
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\bin\Debug\net8.0\calculoSalario.dll
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\bin\Debug\net8.0\calculoSalario.pdb
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\calculoSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\calculoSalario.AssemblyInfoInputs.cache
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\calculoSalario.AssemblyInfo.cs
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\calculoSalario.csproj.CoreCompileInputs.cache
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\calculoSalario.dll
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\refint\calculoSalario.dll
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\calculoSalario.pdb
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\calculoSalario.genruntimeconfig.cache
+C:\Users\RL\desktop\udemy\Exercícios\calculoSalario\obj\Debug\net8.0\ref\calculoSalario.dll
